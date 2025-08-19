@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="./star_2b50.png" width="20"/> 1000+ apps
-  <img src="./star_2b50.png" width="20"/> Secure identity
-  <img src="./star_2b50.png" width="20"/> Premium features
+  <img src="./star_2b50.png" width="10"/> 1000+ apps
+  <img src="./star_2b50.png" width="10"/> Secure identity
+  <img src="./star_2b50.png" width="10"/> Premium features
 </p>
 
 <p align="center">
