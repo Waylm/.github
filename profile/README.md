@@ -5,7 +5,7 @@
 <h1 align="center">🌍 Waylm</h1>
 <p align="center"><i>Use us for everything — one ecosystem, endless apps.</i></p>
 
-<hr>
+
 
 <h2>🚀 What is Waylm?</h2>
 <p>
@@ -13,7 +13,7 @@
   to build <b>1000+ apps and tools</b> — free, connected, and available to everyone.
 </p>
 
-<hr>
+
 
 <h2>🧩 The Pillars</h2>
 <ul>
@@ -23,7 +23,7 @@
   <li><b>Way Chat</b> → Communication & collaboration without borders</li>
 </ul>
 
-<hr>
+
 
 <h2>📅 Vision</h2>
 <p>
@@ -31,7 +31,7 @@
   A truly open ecosystem built by the community, for the community.
 </p>
 
-<hr>
+
 
 <p align="center">
   Built with ❤️ by <a href="https://github.com/Waylm">@Waylm</a>
