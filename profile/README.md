@@ -10,7 +10,7 @@
 Waylm is a growing **ecosystem** of apps and tools.  
 Our goal: one account, everywhere — secure **single sign-on (SSO)** and seamless access across all services.
 
-
+<hr>
 <p align="center">
   Built with ❤️ by <a href="https://github.com/Waylm">@Waylm</a>
 </p>
