@@ -3,20 +3,11 @@
 </p>
 
 <p align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="./star_2b50.png" width="18"/><br/>1000+ apps
-    </td>
-    <td align="center">
-      <img src="./star_2b50.png" width="18"/><br/>Secure identity
-    </td>
-    <td align="center">
-      <img src="./star_2b50.png" width="18"/><br/>Premium features
-    </td>
-  </tr>
-</table>
+  <img src="./star_2b50.png" width="16" style="position:relative; top:2px;"/> 1000+ apps&nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="./star_2b50.png" width="16" style="position:relative; top:2px;"/> Secure identity&nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="./star_2b50.png" width="16" style="position:relative; top:2px;"/> Premium features
 </p>
+
 
 
 <p align="center">
