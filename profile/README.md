@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  Built with <img src="[./star_2b50.png](https://em-content.zobj.net/source/apple/419/red-heart_2764-fe0f.png)" width="14"/> by <a href="https://github.com/Waylm">@Waylm</a>
+  Built with <img src="https://em-content.zobj.net/source/apple/419/red-heart_2764-fe0f.png" width="14"/> by <a href="https://github.com/Waylm">@Waylm</a>
 </p>
